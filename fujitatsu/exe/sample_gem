@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'fujitatsu'
+
+puts Fujitatsu::Translator.shout("どうしてなんだよぉおお！！うわぁぁあああああああああああ")

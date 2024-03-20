@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "AAA Write a longer description or delete this line."
   spec.homepage = "https://gitlab.com/test4844026/gem-fujitatsu"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 3.1.2"
 
   spec.metadata["allowed_push_host"] = "AAA Set to your gem server 'https://example.com'"
 

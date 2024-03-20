@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary = "AAA Write a short summary, because RubyGems requires one."
   spec.description = "AAA Write a longer description or delete this line."
-  spec.homepage = "https://gitlab.com/test4844026/gem-fujitatsu"
+  spec.homepage = "https://github.com/inomaru/gem_fujitatsu"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.2"
 
   spec.metadata["allowed_push_host"] = "AAA Set to your gem server 'https://example.com'"
 
-  spec.metadata["https://gitlab.com/test4844026/gem-fujitatsu"] = spec.homepage
-  spec.metadata["https://gitlab.com/test4844026/gem-fujitatsu"] = "AAA Put your gem's public repo URL here."
-  spec.metadata["https://gitlab.com/test4844026/gem-fujitatsu"] = "AAA Put your gem's CHANGELOG.md URL here."
+  spec.metadata["https://github.com/inomaru/gem_fujitatsu"] = spec.homepage
+  spec.metadata["https://github.com/inomaru/gem_fujitatsu"] = "AAA Put your gem's public repo URL here."
+  spec.metadata["https://github.com/inomaru/gem_fujitatsu"] = "AAA Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
